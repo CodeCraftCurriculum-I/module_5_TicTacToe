@@ -64,6 +64,8 @@ At times it is advisable to make flowcharts for smaler segments of code.
 
 Challenge Requirements (Higher Grades):
 
+TIP: ANSI CODES ;)
+
 1. **Center stage**
 
    - Draw the game board in the center of the screen.
