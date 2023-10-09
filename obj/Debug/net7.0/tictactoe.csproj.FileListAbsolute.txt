@@ -1,0 +1,15 @@
+/Users/crsimo99/projects/mm-201/modules/module_5_TicTacToe/obj/Debug/net7.0/tictactoe.csproj.AssemblyReference.cache
+/Users/crsimo99/projects/mm-201/modules/module_5_TicTacToe/obj/Debug/net7.0/tictactoe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/crsimo99/projects/mm-201/modules/module_5_TicTacToe/obj/Debug/net7.0/tictactoe.AssemblyInfoInputs.cache
+/Users/crsimo99/projects/mm-201/modules/module_5_TicTacToe/obj/Debug/net7.0/tictactoe.AssemblyInfo.cs
+/Users/crsimo99/projects/mm-201/modules/module_5_TicTacToe/obj/Debug/net7.0/tictactoe.csproj.CoreCompileInputs.cache
+/Users/crsimo99/projects/mm-201/modules/module_5_TicTacToe/bin/Debug/net7.0/tictactoe
+/Users/crsimo99/projects/mm-201/modules/module_5_TicTacToe/bin/Debug/net7.0/tictactoe.deps.json
+/Users/crsimo99/projects/mm-201/modules/module_5_TicTacToe/bin/Debug/net7.0/tictactoe.runtimeconfig.json
+/Users/crsimo99/projects/mm-201/modules/module_5_TicTacToe/bin/Debug/net7.0/tictactoe.dll
+/Users/crsimo99/projects/mm-201/modules/module_5_TicTacToe/bin/Debug/net7.0/tictactoe.pdb
+/Users/crsimo99/projects/mm-201/modules/module_5_TicTacToe/obj/Debug/net7.0/tictactoe.dll
+/Users/crsimo99/projects/mm-201/modules/module_5_TicTacToe/obj/Debug/net7.0/refint/tictactoe.dll
+/Users/crsimo99/projects/mm-201/modules/module_5_TicTacToe/obj/Debug/net7.0/tictactoe.pdb
+/Users/crsimo99/projects/mm-201/modules/module_5_TicTacToe/obj/Debug/net7.0/tictactoe.genruntimeconfig.cache
+/Users/crsimo99/projects/mm-201/modules/module_5_TicTacToe/obj/Debug/net7.0/ref/tictactoe.dll
