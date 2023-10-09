@@ -60,7 +60,12 @@ At times it is advisable to make flowcharts for smaler segments of code.
    - Change the code so that the players give their name before starting (so no Player 1/2 turn, use theri names )
 
 9. **Bablefish**
+
    - Under settings in the menu, make it possible to change the games language. You should suport at minimum two languages.
+
+10. **Bad inpu**
+
+- Do not let players put tokens on spaces that are filed.
 
 Challenge Requirements (Higher Grades):
 
